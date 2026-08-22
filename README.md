@@ -1,6 +1,5 @@
 # Portfólio Hacker / Dev — Template 2026
 
-![Hi](./video-demo-hacker.gif)
 <img src="./readme-gif.gif" alt="Demonstração" width="100%">
 
 
