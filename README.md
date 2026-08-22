@@ -1,5 +1,7 @@
 # Portfólio Hacker / Dev — Template 2026
 
+![Hi](./video-demo-readme.mp4)
+
 Template completo de portfólio com visual **cyber / hacker**, animações modernas e estrutura profissional para estudantes de **Sistemas para Internet**.
 
 ## Como usar
